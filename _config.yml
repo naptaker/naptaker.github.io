@@ -1,0 +1,26 @@
+# Site settings
+title: naptaker
+email: naptakerband@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  "Naptakerrr.com"
+# baseurl: "" # the subpath of your site, e.g. /blog/
+url: naptakerrr.com # the base hostname & protocol for your site
+twitter_username: naptakerband
+github_username:  naptaker
+
+# Build settings
+markdown: kramdown
+hightlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  jams:
+    output: true
+    permalink: /jams/:path/
+  # poetry:
+  #   output: false
+  #   permalink: /poetry/:path/
