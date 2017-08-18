@@ -30,7 +30,7 @@ including The Pelicans, [Choke Their Rivers with Our Dead][ctrwod],
   <a href="https://facebook.com/naptakerband" target="_blank"><i class="fa fa-facebook-square"></i></a>
   <a href="https://twitter.com/naptakerband" target="_blank"><i class="fa fa-twitter-square"></i></a>
   <a href="https://last.fm/music/Naptaker" target="_blank"><i class="fa fa-lastfm"></i></a>
-  <a href="https://github.com/naptaker" target="_blank"><i class="fa fa-github-square"></i></a>
+  <!-- <a href="https://github.com/naptaker" target="_blank"><i class="fa fa-github-square"></i></a> -->
   <a href="mailto:booking@naptakerr.com"><i class="fa fa-envelope-square"></i></a>
 </span>
 
