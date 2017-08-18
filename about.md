@@ -27,11 +27,11 @@ including The Pelicans, [Choke Their Rivers with Our Dead][ctrwod],
 <hr/>
 <br/>
 <span class="contacticon center">
-  <a href="https://facebook.com/naptakerband" target="_blank"><i class="fa fa-facebook-square"></i></a>
-  <a href="https://twitter.com/naptakerband" target="_blank"><i class="fa fa-twitter-square"></i></a>
-  <a href="https://last.fm/music/Naptaker" target="_blank"><i class="fa fa-lastfm"></i></a>
-  <!-- <a href="https://github.com/naptaker" target="_blank"><i class="fa fa-github-square"></i></a> -->
-  <a href="mailto:booking@naptakerr.com"><i class="fa fa-envelope-square"></i></a>
+  <a href="https://facebook.com/naptakerband" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/naptakerband" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+  <a href="https://last.fm/music/Naptaker" target="_blank"><i class="fa fa-lastfm-square" aria-hidden="true"></i></a>
+  <!-- <a href="https://github.com/naptaker" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i></a> -->
+  <a href="mailto:booking@naptakerr.com"><i class="fa fa-envelope-square" aria-hidden="true"></i></a>
 </span>
 
 <div class="col three caption"><span>Surf's up!</span></div>
